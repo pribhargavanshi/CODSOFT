@@ -1,0 +1,38 @@
+.text-center{
+    text-align: center;
+  }
+  .bg-red{
+    background-color:indianred ;
+    
+  }
+  
+  .mx-auto{
+    margin:auto;
+  }
+   .flex{
+      display:flex;
+     
+   } 
+  .flex-col{
+    flex-direction: column;
+    
+  }
+  .items-center{
+    align-items:center;
+  }
+  .row{
+    margin:8px 0px;
+     
+  }
+  .row input{
+    width:291px;
+    font-size: 30px;
+    margin:0px;
+    padding:10px 0px;
+    border:2px solid black;
+    border-radius: 5px;
+    
+  }
+  .operator{
+      color: #6dee0a;
+  }
